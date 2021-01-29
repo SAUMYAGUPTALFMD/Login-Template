@@ -2,24 +2,20 @@ import React from "react";
 
 const HomeContent = () => (
   <div className="next-steps">
-    <h2 className="my-5 text-center">What can I do next?</h2>
+    <h2 className="my-5 text-center">Some Heading</h2>
 
     <div className="row">
       <div className="col-md-5 mb-4">
         <h6 className="mb-3">
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://auth0.com/docs/connections"
-          >
+          <a target="_blank" rel="noopener noreferrer" href="/">
             <i className="fas fa-link mr-2" />
-            Configure other identity providers
+            Icon Link
           </a>
         </h6>
         <p>
-          Auth0 supports social providers as Facebook, Twitter, Instagram and
-          100+, Enterprise providers as Microsoft Office 365, Google Apps,
-          Azure, and more. You can also use any OAuth2 Authorization Server.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu
+          viverra diam. Praesent convallis metus dolor, non consectetur leo
+          finibus et.
         </p>
       </div>
 
@@ -30,17 +26,16 @@ const HomeContent = () => (
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://auth0.com/docs/multifactor-authentication"
+            href="/"
           >
             <i className="fas fa-link mr-2" />
-            Enable Multi-Factor Authentication
+            Icon Link
           </a>
         </h6>
         <p>
-          Add an extra layer of security by enabling Multi-factor
-          Authentication, requiring your users to provide more than one piece of
-          identifying information. Push notifications, authenticator apps, SMS,
-          and DUO Security are supported.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu
+          viverra diam. Praesent convallis metus dolor, non consectetur leo
+          finibus et.
         </p>
       </div>
     </div>
@@ -51,16 +46,16 @@ const HomeContent = () => (
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://auth0.com/docs/anomaly-detection"
+            href="/"
           >
             <i className="fas fa-link mr-2" />
-            Anomaly Detection
+              Icon Link
           </a>
         </h6>
         <p>
-          Auth0 can detect anomalies and stop malicious attempts to access your
-          application. Anomaly detection can alert you and your users of
-          suspicious activity, as well as block further login attempts.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu
+          viverra diam. Praesent convallis metus dolor, non consectetur leo
+          finibus et.
         </p>
       </div>
 
@@ -68,20 +63,15 @@ const HomeContent = () => (
 
       <div className="col-md-5 mb-4">
         <h6 className="mb-3">
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://auth0.com/docs/rules"
-          >
+          <a target="_blank" rel="noopener noreferrer" href="/">
             <i className="fas fa-link mr-2" />
-            Learn About Rules
+            Icon Link
           </a>
         </h6>
         <p>
-          Rules are JavaScript functions that execute when a user authenticates
-          to your application. They run once the authentication process is
-          complete, and you can use them to customize and extend Auth0's
-          capabilities.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu
+          viverra diam. Praesent convallis metus dolor, non consectetur leo
+          finibus et.
         </p>
       </div>
     </div>
