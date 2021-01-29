@@ -1,8 +1,8 @@
 # Login Template for everyone!
 
-To start, in the command line type
+To install, in the command line type
 ```
-npm start
+npm install
 ```
 
 When that is finished type -
